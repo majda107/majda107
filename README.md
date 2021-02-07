@@ -1,4 +1,5 @@
-### Hi there, I am Marián Trpkoš, a 17 entrepreneur and product creator 👋
+### Hi there, I am Marián Trpkoš 👋
+- a 17 entrepreneur and product creator
 
 Space is infinite... and our mind is often compared to space!
 
