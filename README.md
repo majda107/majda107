@@ -1,5 +1,7 @@
 ### Hi there, I am Marián Trpkoš 👋
-- a 17 entrepreneur and product creator
+- a 17yo entrepreneur and product creator
+
+Hit me up at: `majda@trpkos.me`
 
 Space is infinite... and our mind is often compared to space!
 
