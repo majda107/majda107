@@ -1,5 +1,5 @@
 ### Hi there, I am Marián Trpkoš 👋
-- 18yo product designer and passionate developer
+> 18yo product designer and passionate developer
 
 Hit me up at: `majda@trpkos.me` or [Linktree](https://linktr.ee/majda107)
 
