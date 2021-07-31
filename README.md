@@ -1,7 +1,7 @@
 ### Hi there, I am Marián Trpkoš 👋
-- a 17yo entrepreneur and product creator
+- 18yo product designer and passionate developer
 
-Hit me up at: `majda@trpkos.me`
+Hit me up at: `majda@trpkos.me` or [Linktree](https://linktr.ee/majda107)
 
 <!--
 **majda107/majda107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
