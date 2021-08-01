@@ -1,20 +1,3 @@
-
-<!--
-**majda107/majda107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-🔭 I’m currently working on many projects...
-🌱 I’m currently learning to be a good frontend desinger (I am backend dev)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-💬 Ask me about anything, literally made app for this
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-⚡ Fun fact: I love DnB
--->
-
-
-
 ### Hi there, I am [Marián Trpkoš](https://majda.me/) 👋
 
 > 18yo product designer and passionate developer
@@ -25,8 +8,34 @@ Hit me up at: `majda@trpkos.me` or [Linktree](https://linktr.ee/majda107)
 
 ### Tools I ❤️
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/vscode.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/vs.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/rider.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/clion.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/figma.svg" />
 
+
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/kubernetes.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/docker.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/bash.svg" />
+
+
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/csharp.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/fsharp.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/c.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/rust.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/opengl.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/python.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/ts.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/js.svg" />
+
+
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/yarn.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/ionic.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/flutter.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/vue.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/react.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/majda107/majda107/main/icons/angular.svg" />
 <!--
 ### Spotify Playing 🎧
 
