@@ -5,8 +5,6 @@
 
 Hit me up at: `majda@trpkos.me` or [Linktree](https://linktr.ee/majda107)
 
-https://www.figma.com/deck/66aGHVEh6MZ0CShT8P9PZA/Lumesync-obhajoba?node-id=1-350&viewport=-136%2C-89%2C0.63&t=Redxq60LVVzX4Pdp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-
 <br>
 
 # Tools I love ❤️
