@@ -1,5 +1,3 @@
-[OB](https://www.figma.com/deck/66aGHVEh6MZ0CShT8P9PZA/Lumesync-obhajoba?node-id=1-350&viewport=-112%2C-142%2C0.66&t=RaWxSkTtxtr8FRI5-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
-
 # Hi there, I am [Marián Trpkoš](https://majda.me/) 👋
 
 > 21yo product designer and passionate developer
