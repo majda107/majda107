@@ -1,6 +1,6 @@
 # Hi there, I am [Marián Trpkoš](https://majda.me/) 👋
 
-> 21yo product designer and passionate developer
+> 22yo product designer and passionate developer
 
 Hit me up at: `majda@trpkos.me` or [Linktree](https://linktr.ee/majda107)
 
